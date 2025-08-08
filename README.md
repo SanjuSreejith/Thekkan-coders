@@ -1,56 +1,95 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# PAZHAMCHOLLU DIARIES 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: THEKKAN CODERS
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: SANJU SREEJITH U - GOVERNMENT ENGINEERING COLLEGE IDUKKI
+- Member 2: TEENA PRAVIN - GOVERNMENT ENGINEERING COLLEGE IDUKKI
 
 ### Project Description
-[2-3 lines about what your project does]
+Pazhamchollu Diaries – Discover the World of Malayalam Proverbs
+
+Pazhamchollu Diaries is a culturally immersive mini-game collection that invites players into a whimsical Kerala-inspired universe, where age-old Malayalam proverbs (pazhamchollukal) come alive through play. Guided by the theme “Discover the Pazhamchollu World,” the game transforms traditional wisdom into interactive challenges filled with humor, storytelling, and visual charm.
+
+More than just sharing deeper meanings, Pazhamchollu Diaries rekindles a love for Malayalam folklore among the new generation—ensuring these timeless sayings are remembered, cherished, and passed on.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Pazhamchollu Diaries – Solving a Problem Nobody Knew They Didn’t Have
+
+In a world overflowing with real issues—climate change, AI ethics, global pandemics—we decided to tackle something truly... irrelevant.
+
+What if, we asked ourselves, Malayalam proverbs were in danger of being slightly less remembered by people who never cared in the first place?  
+And thus, Pazhamchollu Diaries was born: a gloriously over-engineered solution to a problem that doesn’t exist.
+
+🤷‍♂ The Non-Problem
+- Nobody asked for it.  
+- Nobody noticed it.  
+- Nobody’s life was affected by it.  
+But we fixed it anyway.
+
+🎮 The Game
+Three mini-games (more of them will be added in the near future). Countless pazhamchollus. Zero impact on global affairs.  
+Play it to feel culturally superior while doing absolutely nothing useful.
+
+🧠 The Vision
+We could’ve built a rocket. Solved traffic. Cured boredom.  
+Instead, we made a game about proverbs. Because why not?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+🥭 Pazhamchollu Diaries
+You didn’t ask for it. But you’ll love it anyway.
+
+🤷‍♀ The Solution Nobody Needed
+We saw a gap in the market.  
+Actually… we imagined one.  
+Nobody demanded a game based on Malayalam proverbs. But we built it anyway—because why not?
+
+Pazhamchollu Diaries is a whimsical tribute to Kerala’s timeless pazhamchollukal, reimagined as mini-games that are equal parts hilarious and oddly profound
+🎮 What’s Inside (So Far)
+We’ve launched with two proverb-powered mini-games:
+- 🐘 Aadi Thettiyāl Āṇayum Veezhum – Dodge your downfall in a game of timing and wit.  
+- 🐍 Pokkunakolli Purathu – Brave the unknown, but beware what lurks beyond.
+- 🐸 Thavala Karanjall Mazha Peyum- coincidence mistaken for causation
+
+Each game turns age-old wisdom into bite-sized fun.
+🚀 What’s Coming
+More pazhamchollu madness is on the way.  
+New mini-games. New proverbs. New ways to laugh at life’s strange truths.
+🧠 Why Play?
+Because culture is cooler when it’s interactive.  
+Because pazhamchollukal deserve their own cinematic universe.  
+Because you’re curious. Admit it.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- c# 
+- Unity Engine
+- Unity UI Toolkit
+- Figma, Git, GitHub, VS Code
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+No Hardware used.
 
 ### Implementation
 For Software:
 # Installation
-[commands]
-
-# Run
-[commands]
+windows
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![img](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![img](Add screenshot 2 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
@@ -59,25 +98,6 @@ For Software:
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
 *Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
@@ -88,10 +108,8 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
+- SANJU SREEJITH U: Unity Software and game developemnt.
+- TEENA PRAVIN: Figma, game plan and documentation.
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
