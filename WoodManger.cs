@@ -1,4 +1,4 @@
-﻿using UnityEngine;
+using UnityEngine;
 using UnityEngine.SceneManagement;
 using TMPro;
 using System.Collections.Generic;
@@ -196,7 +196,20 @@ public class MultiWoodManager : MonoBehaviour
     {
         scoreText.text = "Score: " + score;
     }
+    private void SaveScore()
+    {
+        // 1. Get the previously saved score (default to 0 if none exists)
+        int previousScore = PlayerPrefs.GetInt("PlayerScore", 0);
 
+        // 2. Add the current score to the previous one
+        int newTotalScore = previousScore + score;
+
+        // 3. Save the accumulated score
+        PlayerPrefs.SetInt("PlayerScore", newTotalScore);
+        PlayerPrefs.Save();
+
+        Debug.Log($"Saved score: {score} added to previous {previousScore} = {newTotalScore}");
+    }
     System.Collections.IEnumerator ShowNewWoodAlert(string woodName)
     {
         alertText.gameObject.SetActive(true);
@@ -210,6 +223,7 @@ public class MultiWoodManager : MonoBehaviour
     {
         isGameOver = true;
         finalScoreText.text = "Final Score: " + score;
+        SaveScore(); // Save the score when game is over
         gameOverPanel.SetActive(true);
     }
 }
