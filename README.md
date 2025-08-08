@@ -86,11 +86,10 @@ windows
 For Software:
 
 # Screenshots (Add at least 3)
-![img](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![img](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![pic1](https://github.com/user-attachments/assets/4caa0745-a54d-4ec3-8261-6f411010e9ac)
+
+
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
