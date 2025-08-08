@@ -1,8 +1,10 @@
-﻿using UnityEngine;
-using UnityEngine.UI;
-using TMPro;
-using UnityEngine.SceneManagement;
 using System.Collections;
+using System.Drawing;
+using TMPro;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+using UnityEngine.SocialPlatforms.Impl;
+using UnityEngine.UI;
 
 public class ElephantRiddleGame : MonoBehaviour
 {
@@ -283,6 +285,7 @@ public class ElephantRiddleGame : MonoBehaviour
         timerCoroutine = StartCoroutine(TimerCountdown());
 
         PlaySound("ask");
+
     }
 
     IEnumerator TimerCountdown()
@@ -310,10 +313,12 @@ public class ElephantRiddleGame : MonoBehaviour
         if (gameEnded) return;
 
         points -= 10;
-        if (points < 0) points = 0;
+    
         pointsText.text = "Score: " + points;
         feedbackText.text = "Time's up! The answer was: " + riddles[currentRiddleIndex].answer;
         PlaySound("timeup");
+        if(points <=-25)
+        { EndGame(); }
 
         // Automatically move to next question after a short delay
         StartCoroutine(AutoNextQuestion());
@@ -367,13 +372,16 @@ public class ElephantRiddleGame : MonoBehaviour
             PlaySound("correct");
             nextButton.gameObject.SetActive(true);
         }
+        
         else
         {
             points -= 5;
-            if (points < 0) points = 0;
+          
             feedbackText.text = "Wrong! -5 points! Try again.";
             PlaySound("wrong");
         }
+        if (points <= -25)
+        { EndGame(); }
 
         pointsText.text = "Score: " + points;
     }
@@ -396,11 +404,31 @@ public class ElephantRiddleGame : MonoBehaviour
     {
         gameEnded = true;
         winPanel.SetActive(true);
+        SaveScore();
         nextButton.interactable = false;
     }
 
     void LoadMainMenu()
     {
         SceneManager.LoadScene("MainMenu");
+        SaveScore();
     }
+    // Add these new methods to your ElephantRiddleGame class
+    public void SaveScore()
+    {
+        // 1. Get the previously saved score (default to 0 if none exists)
+        int previousScore = PlayerPrefs.GetInt("PlayerScore", 0);
+
+        // 2. Add the current score to the previous one
+        int newTotalScore = previousScore + points;
+
+        // 3. Save the accumulated score
+        PlayerPrefs.SetInt("PlayerScore", newTotalScore);
+        PlayerPrefs.Save();
+
+        Debug.Log($"Saved score: {points} added to previous {previousScore} = {newTotalScore}");
+    }
+
+
+
 }
