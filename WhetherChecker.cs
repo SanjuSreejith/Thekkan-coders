@@ -4,8 +4,8 @@ using System.Collections;
 
 public class WeatherChecker : MonoBehaviour
 {
-    // Replace with your real OpenWeatherMap API key
-    private string apiKey = "8dd21926456662892536e81cdcf26901";
+    // The Api is removed due to security Reasons
+    private string apiKey = "";
 
     public IEnumerator CheckWeather(float lat, float lon)
     {
