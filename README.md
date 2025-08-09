@@ -34,7 +34,7 @@ And thus, Pazhamchollu Diaries was born: a gloriously over-engineered solution t
 But we fixed it anyway.
 
 🎮 The Game
-Three mini-games (more of them will be added in the near future). Countless pazhamchollus. Zero impact on global affairs.  
+Two mini-games and one weather alert option (more of them will be added in the near future). Countless pazhamchollus. Zero impact on global affairs.  
 Play it to feel culturally superior while doing absolutely nothing useful.
 
 🧠 The Vision
@@ -55,7 +55,7 @@ Pazhamchollu Diaries is a whimsical tribute to Kerala’s timeless pazhamcholluk
 We’ve launched with two proverb-powered mini-games:
 - 🐘 Aadi Thettiyāl Āṇayum Veezhum – Dodge your downfall in a game of timing and wit.  
 - 🐍 Pukkanja kolli Purathu – Brave the unknown, but beware what lurks beyond.
-- 🐸 Thavala Karanjall Mazha Peyum- coincidence mistaken for causation
+- 🐸 Thavala Karanjall Mazha Peyum- coincidence mistaken for causation(weather alert option)
 
 Each game turns age-old wisdom into bite-sized fun.
 🚀 What’s Coming
