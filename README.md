@@ -86,11 +86,16 @@ windows
 For Software:
 
 # Screenshots (Add at least 3)
-
+The front page of the app.
 ![pic1](https://github.com/user-attachments/assets/4caa0745-a54d-4ec3-8261-6f411010e9ac)
+The options showing two minigames based on malayalam proverbs and the user can select their desired game to be played.
 <img width="1200" height="540" alt="image" src="https://github.com/user-attachments/assets/64eb2b86-d67f-4de3-b40b-7aa8d9548588" />
+The game scorecard of the first minigame .The image shows that the user has failed the game with only scoring 2 points.
 <img width="1200" height="540" alt="image" src="https://github.com/user-attachments/assets/b7b8ef4c-471e-403f-af7e-292bdcedf446" />
+This is a pause option through which the user can decide on whether the user can resume or restart or exit the game based on his preference.
 <img width="1200" height="540" alt="image" src="https://github.com/user-attachments/assets/f5949f4d-2b06-46ed-bd82-01ee933dcb4f" />
+The last image shows the second minigame which shows the interactive communication between the elephant and the person.
+<img width="1200" height="540" alt="image" src="https://github.com/user-attachments/assets/c808f590-e39b-411c-816c-e2e85afc4b6c" />
 
 
 
