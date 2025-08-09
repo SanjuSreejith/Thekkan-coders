@@ -100,13 +100,9 @@ The last image shows the second minigame which shows the interactive communicati
 
 
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
 ### Project Demo
- [](https://drive.google.com/file/d/1tgR_Kx0z7nfAZZOZ_QK3leUlafWa5x9-/view?usp=drive_link)
-*Explain what the video demonstrates*
+ [(https://drive.google.com/file/d/1tgR_Kx0z7nfAZZOZ_QK3leUlafWa5x9-/view?usp=drive_link]
+
 
 # Additional Demos
 [Add any extra demo materials/links]
