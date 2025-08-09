@@ -54,7 +54,7 @@ Pazhamchollu Diaries is a whimsical tribute to Kerala’s timeless pazhamcholluk
 🎮 What’s Inside (So Far)
 We’ve launched with two proverb-powered mini-games:
 - 🐘 Aadi Thettiyāl Āṇayum Veezhum – Dodge your downfall in a game of timing and wit.  
-- 🐍 Pokkunakolli Purathu – Brave the unknown, but beware what lurks beyond.
+- 🐍 Pokkanjapulli Purathu – Brave the unknown, but beware what lurks beyond.
 - 🐸 Thavala Karanjall Mazha Peyum- coincidence mistaken for causation
 
 Each game turns age-old wisdom into bite-sized fun.
