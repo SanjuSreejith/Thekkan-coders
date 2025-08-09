@@ -105,8 +105,7 @@ The last image shows the second minigame which shows the interactive communicati
 *Add caption explaining your workflow*
 
 ### Project Demo
-# Video
-[https://drive.google.com/file/d/1tgR_Kx0z7nfAZZOZ_QK3leUlafWa5x9-/view?usp=drive_link]
+ [](https://drive.google.com/file/d/1tgR_Kx0z7nfAZZOZ_QK3leUlafWa5x9-/view?usp=drive_link)
 *Explain what the video demonstrates*
 
 # Additional Demos
