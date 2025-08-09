@@ -89,11 +89,10 @@ For Software:
 
 ![pic1](https://github.com/user-attachments/assets/4caa0745-a54d-4ec3-8261-6f411010e9ac)
 <img width="1200" height="540" alt="image" src="https://github.com/user-attachments/assets/64eb2b86-d67f-4de3-b40b-7aa8d9548588" />
+<img width="1200" height="540" alt="image" src="https://github.com/user-attachments/assets/b7b8ef4c-471e-403f-af7e-292bdcedf446" />
 
 
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
