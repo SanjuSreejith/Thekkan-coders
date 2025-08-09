@@ -88,6 +88,7 @@ For Software:
 # Screenshots (Add at least 3)
 
 ![pic1](https://github.com/user-attachments/assets/4caa0745-a54d-4ec3-8261-6f411010e9ac)
+<img width="1200" height="540" alt="image" src="https://github.com/user-attachments/assets/64eb2b86-d67f-4de3-b40b-7aa8d9548588" />
 
 
 
